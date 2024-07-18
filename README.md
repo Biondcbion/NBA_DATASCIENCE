@@ -1,2 +1,2 @@
 # NBA_DATASCIENCE
-NBA WEB scraping and analysis 
+NBA Web scraping and analysis 
